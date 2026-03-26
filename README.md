@@ -3,14 +3,14 @@
 This notebook contains implementations and experiments focused on **stochastic process simulations**, using a practical and visual approach.
 This work focuses on:
 
-- 🎲 **Random walks**
-- 🔁 **Bernoulli processes**
+-  **Random walks**
+-  **Bernoulli processes**
 
 The goal is to **simulate these processes** and analyze their behavior through visualization.
 
 ---
 
-## 📈 Methodology
+## Methodology
 
 1. Implement mathematical models in Python  
 2. Run multiple simulations  
